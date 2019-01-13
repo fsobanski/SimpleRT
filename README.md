@@ -50,9 +50,6 @@ Create local.properties file in root dir, it should be looking like that:
    ```
    app/build/outputs/apk/app-debug.apk is your apk.
 
-   A prebuilt apk can also be found under `Downloads` at the [Github releases](https://github.com/iteratec/SimpleRT/releases)
-   tab.
-
 - Desktop part:
 
    Dependencies:

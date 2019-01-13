@@ -240,7 +240,7 @@ accessory_t *probe_usb_device(struct libusb_device *dev,
             .request_type = LIBUSB_ENDPOINT_OUT | LIBUSB_REQUEST_TYPE_VENDOR,
             .bRequest = AOA_SEND_IDENT,
             .wIndex = AOA_STRING_URL_ID,
-            .data = "https://github.com/vvviperrr/SimpleRT",
+            .data = "https://github.com/fsobanski/SimpleRT",
         },
         {
             .str = "serial number",
@@ -346,4 +346,3 @@ ssize_t write_usb_packet(struct libusb_device_handle *handle, uint8_t ep,
 
     return transferred;
 }
-

@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.viper.simplert;
+package de.fsobanski.simplert;
 
 import android.app.Activity;
 import android.content.Intent;

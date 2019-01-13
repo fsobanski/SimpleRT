@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.viper.simplert;
+package de.fsobanski.simplert;
 
 public class Native {
     static native void start(int tun_fd, int acc_fd);

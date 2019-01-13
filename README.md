@@ -1,4 +1,4 @@
-# SimpleRT
+# SimpleRT++
 Reverse [Tethering](https://en.wikipedia.org/wiki/Tethering) utility for Android.
 
 Allows you to share your computer's internet connection with your Android device via a USB cable.

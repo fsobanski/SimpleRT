@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.viper.simplert;
+package de.fsobanski.simplert;
 
 import android.annotation.TargetApi;
 import android.content.BroadcastReceiver;
@@ -41,7 +41,7 @@ import java.util.List;
 
 public class TetherService extends VpnService {
     private static final String TAG = "TetherService";
-    private static final String ACTION_USB_PERMISSION = "com.viper.simplert.TetherService.action.USB_PERMISSION";
+    private static final String ACTION_USB_PERMISSION = "de.fsobanski.simplert.TetherService.action.USB_PERMISSION";
     private static final int FOREGROUND_NOTIFICATION_ID = 16;
 
     private final BroadcastReceiver mUsbReceiver = new BroadcastReceiver() {

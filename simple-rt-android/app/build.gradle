@@ -12,7 +12,7 @@ model {
         }
 
         defaultConfig {
-            applicationId "com.viper.simplert"
+            applicationId "de.fsobanski.simplert"
             minSdkVersion.apiLevel 14
             targetSdkVersion.apiLevel 24
             versionCode 1

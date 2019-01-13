@@ -23,6 +23,15 @@ FIRST RUN: check out -h option!
 
 ### No root, no adb required!
 
+## History
+
+This repository started out as a fork of [vvviperrr/SimpleRT](https://github.com/vvviperrr/SimpleRT).
+That fork can still be found [here](https://github.com/iteratec/SimpleRT).
+It looks like [vvviperrr](https://github.com/vvviperrr) is no longer maintaining the project.
+I promised [here](https://github.com/vvviperrr/SimpleRT/issues/37#issuecomment-452686164) that I
+would release a new version of SimpleRT on F-Droid called `SimpleRT++` together with
+[Eugene's](https://github.com/eugene-sevostianov-sc/SimpleRT) and my commits.
+
 ## Full Linux and macOS support! Windows version is in early researching.
 
    Current version features:
